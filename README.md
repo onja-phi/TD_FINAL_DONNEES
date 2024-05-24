@@ -2,8 +2,8 @@
 
 ## EXO1 : FONCTIONS D'AGGREGATION
 
-  ### MCD
-    [lien vers MCD](https://drive.google.com/file/d/1UZq_JwXBujP6OQ6kMn7H67oEe_gkZlkR/view?usp=drive_link)
+  
+  - [lien vers MCD](https://drive.google.com/file/d/1UZq_JwXBujP6OQ6kMn7H67oEe_gkZlkR/view?usp=drive_link)
 
   - [lien vers implementation](https://drive.google.com/file/d/1lS0wYCjE1vNfQgxchmeF1U9cRFmpMlyG/view?usp=drive_link)
   - [lien vers listArticle.sql](https://drive.google.com/file/d/1dttLlYm1WeYVzYS1P8NtPMlD8L_35JS8/view?usp=drive_link)
@@ -13,13 +13,14 @@
   - [lien vers listBuy](https://drive.google.com/file/d/12sty3gmLQbP5FVeLLbvbUX3cX1CpyIHY/view?usp=drive_link)
   - [lien vers Insertion](https://drive.google.com/file/d/1R2bxLEa2ipWbAgf16ZOQP4oTuCmHjLN-/view?usp=drive_link)
   
-##EXO2 :
+
+## EXO2 : VUES ET INDEX BASIQUES
   [lien vers Insertion](https://drive.google.com/file/d/1iat3ru5m98GWVIzvpZZX7slyzA3nwuyB/view?usp=drive_link)
   
     
-###Membres : 
-        Ando STD23096
-        Onja STD23035
-        Minosoa STD23013
-        Mihago STD23015
-       Tiavina STD23059
+### Membres :
+- Ando STD23096
+- Onja STD23035
+- Minosoa STD23013
+- Mihago STD23015
+- Tiavina STD23059
