@@ -2,7 +2,7 @@
 
 ## EXO1 : FONCTIONS D'AGGREGATION
 
-  ### 1-MCD
+  ### MCD
     [lien vers MCD](https://drive.google.com/file/d/1UZq_JwXBujP6OQ6kMn7H67oEe_gkZlkR/view?usp=drive_link)
 
   - [lien vers implementation](https://drive.google.com/file/d/1lS0wYCjE1vNfQgxchmeF1U9cRFmpMlyG/view?usp=drive_link)
@@ -17,3 +17,9 @@
   [lien vers Insertion](https://drive.google.com/file/d/1iat3ru5m98GWVIzvpZZX7slyzA3nwuyB/view?usp=drive_link)
   
     
+###Membres : 
+        Ando STD23096
+        Onja STD23035
+        Minosoa STD23013
+        Mihago STD23015
+       Tiavina STD23059
